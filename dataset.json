@@ -4,13 +4,9 @@
         "title": "product_100",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -20,9 +16,7 @@
                 "value": "green,xl",
                 "sku": "425462813360114",
                 "barcode": 13382588,
-                "price": "3029 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 3029
             }
         ]
     },
@@ -31,13 +25,9 @@
         "title": "product_99",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -47,9 +37,7 @@
                 "value": "green,rose",
                 "sku": "6404156481191749",
                 "barcode": 51789703,
-                "price": "321 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 321
             }
         ]
     },
@@ -58,13 +46,9 @@
         "title": "product_98",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -74,9 +58,7 @@
                 "value": "green,rose",
                 "sku": "6318113057797908",
                 "barcode": 412039,
-                "price": "591 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 591
             }
         ]
     },
@@ -85,13 +67,9 @@
         "title": "product_97",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -101,9 +79,7 @@
                 "value": "xl,green",
                 "sku": "1342192884277699",
                 "barcode": 87308164,
-                "price": "2346 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 2346
             }
         ]
     },
@@ -112,13 +88,9 @@
         "title": "product_96",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -128,9 +100,7 @@
                 "value": "xl,green",
                 "sku": "1919406235207873",
                 "barcode": 86431847,
-                "price": "1246 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1246
             }
         ]
     },
@@ -139,13 +109,9 @@
         "title": "product_95",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -155,9 +121,7 @@
                 "value": "green,rose",
                 "sku": "5027427046456506",
                 "barcode": 75191363,
-                "price": "1703 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1703
             }
         ]
     },
@@ -166,13 +130,9 @@
         "title": "product_94",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -182,9 +142,7 @@
                 "value": "rose,xl",
                 "sku": "5096855258901952",
                 "barcode": 55369017,
-                "price": "2451 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 2451
             }
         ]
     },
@@ -193,13 +151,9 @@
         "title": "product_93",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -209,9 +163,7 @@
                 "value": "xl,green",
                 "sku": "3635959895103134",
                 "barcode": 79741575,
-                "price": "1296 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1296
             }
         ]
     },
@@ -220,13 +172,9 @@
         "title": "product_92",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -236,9 +184,7 @@
                 "value": "green,rose",
                 "sku": "5330087626736433",
                 "barcode": 75939989,
-                "price": "4345 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 4345
             }
         ]
     },
@@ -247,13 +193,9 @@
         "title": "product_91",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -263,9 +205,7 @@
                 "value": "rose,green",
                 "sku": "2589299016336828",
                 "barcode": 64816121,
-                "price": "2516 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 2516
             }
         ]
     },
@@ -274,13 +214,9 @@
         "title": "product_90",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -290,9 +226,7 @@
                 "value": "green,rose",
                 "sku": "2445927547724603",
                 "barcode": 12863465,
-                "price": "1379 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1379
             }
         ]
     },
@@ -301,13 +235,9 @@
         "title": "product_89",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -317,9 +247,7 @@
                 "value": "xl,rose",
                 "sku": "1809683524462471",
                 "barcode": 67776245,
-                "price": "4610 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 4610
             }
         ]
     },
@@ -328,13 +256,9 @@
         "title": "product_88",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -344,9 +268,7 @@
                 "value": "rose,xl",
                 "sku": "2018589906359350",
                 "barcode": 88975561,
-                "price": "3713 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 3713
             }
         ]
     },
@@ -355,13 +277,9 @@
         "title": "product_87",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:10.000000Z",
-        "updated_at": "2022-10-23T07:51:10.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -371,9 +289,7 @@
                 "value": "green,rose",
                 "sku": "7964710059166180",
                 "barcode": 4075310,
-                "price": "4697 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 4697
             }
         ]
     },
@@ -382,13 +298,9 @@
         "title": "product_86",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -398,9 +310,7 @@
                 "value": "xl,green",
                 "sku": "2074910936527198",
                 "barcode": 63105793,
-                "price": "2751 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 2751
             }
         ]
     },
@@ -409,13 +319,9 @@
         "title": "product_85",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -425,9 +331,7 @@
                 "value": "green,rose",
                 "sku": "4198036135984129",
                 "barcode": 99307009,
-                "price": "4605 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 4605
             }
         ]
     },
@@ -436,13 +340,9 @@
         "title": "product_84",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -452,9 +352,7 @@
                 "value": "green,rose",
                 "sku": "134268376379967",
                 "barcode": 63545416,
-                "price": "1024 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1024
             }
         ]
     },
@@ -463,13 +361,9 @@
         "title": "product_83",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -479,9 +373,7 @@
                 "value": "rose,xl",
                 "sku": "4384871028302324",
                 "barcode": 47915434,
-                "price": "624 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 624
             }
         ]
     },
@@ -490,13 +382,9 @@
         "title": "product_82",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -506,9 +394,7 @@
                 "value": "xl,rose",
                 "sku": "2343333025786433",
                 "barcode": 90348664,
-                "price": "1866 TK",
-                "created_at": "2022-10-23T07:51:15.000000Z",
-                "updated_at": "2022-10-23T07:51:15.000000Z"
+                "price": 1866
             }
         ]
     },
@@ -517,13 +403,9 @@
         "title": "product_81",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -533,9 +415,7 @@
                 "value": "rose,xl",
                 "sku": "6530201683786923",
                 "barcode": 10732233,
-                "price": "2797 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 2797
             }
         ]
     },
@@ -544,13 +424,9 @@
         "title": "product_80",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -560,9 +436,7 @@
                 "value": "green,xl",
                 "sku": "6732478157412428",
                 "barcode": 81969171,
-                "price": "2257 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 2257
             }
         ]
     },
@@ -571,13 +445,9 @@
         "title": "product_79",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -587,9 +457,7 @@
                 "value": "green,rose",
                 "sku": "4996894959678108",
                 "barcode": 77867104,
-                "price": "1539 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 1539
             }
         ]
     },
@@ -598,13 +466,9 @@
         "title": "product_78",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -614,9 +478,7 @@
                 "value": "rose,green",
                 "sku": "3590839083878533",
                 "barcode": 48094092,
-                "price": "3808 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3808
             }
         ]
     },
@@ -625,13 +487,9 @@
         "title": "product_77",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -641,9 +499,7 @@
                 "value": "xl,rose",
                 "sku": "4884250684330287",
                 "barcode": 55985877,
-                "price": "43 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 43
             }
         ]
     },
@@ -652,13 +508,9 @@
         "title": "product_76",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -668,9 +520,7 @@
                 "value": "rose,green",
                 "sku": "5713874616364749",
                 "barcode": 15750776,
-                "price": "3225 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3225
             }
         ]
     },
@@ -679,13 +529,9 @@
         "title": "product_75",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -695,9 +541,7 @@
                 "value": "rose,green",
                 "sku": "9638518683996438",
                 "barcode": 30058736,
-                "price": "3689 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3689
             }
         ]
     },
@@ -706,13 +550,9 @@
         "title": "product_74",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -722,9 +562,7 @@
                 "value": "xl,rose",
                 "sku": "3652748286320635",
                 "barcode": 7852866,
-                "price": "3047 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3047
             }
         ]
     },
@@ -733,13 +571,9 @@
         "title": "product_73",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -749,9 +583,7 @@
                 "value": "rose,xl",
                 "sku": "2553284722318217",
                 "barcode": 38348503,
-                "price": "2687 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 2687
             }
         ]
     },
@@ -760,13 +592,9 @@
         "title": "product_72",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -776,9 +604,7 @@
                 "value": "rose,xl",
                 "sku": "1469212196946541",
                 "barcode": 88870230,
-                "price": "3179 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3179
             }
         ]
     },
@@ -787,13 +613,9 @@
         "title": "product_71",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -803,9 +625,7 @@
                 "value": "rose,xl",
                 "sku": "2126927560755574",
                 "barcode": 41109552,
-                "price": "2340 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 2340
             }
         ]
     },
@@ -814,13 +634,9 @@
         "title": "product_70",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -830,9 +646,7 @@
                 "value": "green,xl",
                 "sku": "8337882027729489",
                 "barcode": 92749233,
-                "price": "1824 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 1824
             }
         ]
     },
@@ -841,13 +655,9 @@
         "title": "product_69",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:09.000000Z",
-        "updated_at": "2022-10-23T07:51:09.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -857,9 +667,7 @@
                 "value": "xl,rose",
                 "sku": "6569023585841463",
                 "barcode": 14384258,
-                "price": "1501 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 1501
             }
         ]
     },
@@ -868,13 +676,9 @@
         "title": "product_68",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -884,9 +688,7 @@
                 "value": "rose,green",
                 "sku": "4421678753119044",
                 "barcode": 45639214,
-                "price": "3208 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3208
             }
         ]
     },
@@ -895,13 +697,9 @@
         "title": "product_67",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -911,9 +709,7 @@
                 "value": "xl,green",
                 "sku": "3581436622357417",
                 "barcode": 23531946,
-                "price": "4968 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 4968
             }
         ]
     },
@@ -922,13 +718,9 @@
         "title": "product_66",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -938,9 +730,7 @@
                 "value": "rose,xl",
                 "sku": "4350635201940904",
                 "barcode": 77405046,
-                "price": "3769 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3769
             }
         ]
     },
@@ -949,13 +739,9 @@
         "title": "product_65",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -965,9 +751,7 @@
                 "value": "rose,xl",
                 "sku": "1881119279792077",
                 "barcode": 46024565,
-                "price": "1028 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 1028
             }
         ]
     },
@@ -976,13 +760,9 @@
         "title": "product_64",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -992,9 +772,7 @@
                 "value": "rose,green",
                 "sku": "1368970538936090",
                 "barcode": 59858475,
-                "price": "3345 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3345
             }
         ]
     },
@@ -1003,13 +781,9 @@
         "title": "product_63",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1019,9 +793,7 @@
                 "value": "xl,green",
                 "sku": "7149577924171331",
                 "barcode": 506553,
-                "price": "172 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 172
             }
         ]
     },
@@ -1030,13 +802,9 @@
         "title": "product_62",
         "cat_id": 3,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1046,9 +814,7 @@
                 "value": "green,xl",
                 "sku": "2758773861245271",
                 "barcode": 10957795,
-                "price": "4597 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 4597
             }
         ]
     },
@@ -1057,13 +823,9 @@
         "title": "product_61",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1073,9 +835,7 @@
                 "value": "green,rose",
                 "sku": "5566669189771788",
                 "barcode": 55207618,
-                "price": "4087 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 4087
             }
         ]
     },
@@ -1084,13 +844,9 @@
         "title": "product_60",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1100,9 +856,7 @@
                 "value": "xl,green",
                 "sku": "7630282201877757",
                 "barcode": 49469385,
-                "price": "2183 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 2183
             }
         ]
     },
@@ -1111,13 +865,9 @@
         "title": "product_59",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1127,9 +877,7 @@
                 "value": "xl,rose",
                 "sku": "1465679523525517",
                 "barcode": 40331643,
-                "price": "3878 TK",
-                "created_at": "2022-10-23T07:51:14.000000Z",
-                "updated_at": "2022-10-23T07:51:14.000000Z"
+                "price": 3878
             }
         ]
     },
@@ -1138,13 +886,9 @@
         "title": "product_58",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1154,9 +898,7 @@
                 "value": "rose,green",
                 "sku": "4341360156039930",
                 "barcode": 17197304,
-                "price": "1558 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 1558
             }
         ]
     },
@@ -1165,13 +907,9 @@
         "title": "product_57",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1181,9 +919,7 @@
                 "value": "xl,green",
                 "sku": "8050738968876198",
                 "barcode": 85367768,
-                "price": "2972 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 2972
             }
         ]
     },
@@ -1192,13 +928,9 @@
         "title": "product_56",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1208,9 +940,7 @@
                 "value": "xl,rose",
                 "sku": "4278017276003237",
                 "barcode": 70506192,
-                "price": "2163 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 2163
             }
         ]
     },
@@ -1219,13 +949,9 @@
         "title": "product_55",
         "cat_id": 4,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1235,9 +961,7 @@
                 "value": "xl,green",
                 "sku": "3746373487789115",
                 "barcode": 49020671,
-                "price": "3633 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 3633
             }
         ]
     },
@@ -1246,13 +970,9 @@
         "title": "product_54",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1262,9 +982,7 @@
                 "value": "green,xl",
                 "sku": "2439493116852912",
                 "barcode": 48575283,
-                "price": "2380 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 2380
             }
         ]
     },
@@ -1273,13 +991,9 @@
         "title": "product_53",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1289,9 +1003,7 @@
                 "value": "green,xl",
                 "sku": "3399931450314710",
                 "barcode": 67552474,
-                "price": "3619 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 3619
             }
         ]
     },
@@ -1300,13 +1012,9 @@
         "title": "product_52",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1316,9 +1024,7 @@
                 "value": "rose,green",
                 "sku": "4362673808498753",
                 "barcode": 31749650,
-                "price": "3547 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 3547
             }
         ]
     },
@@ -1327,13 +1033,9 @@
         "title": "product_51",
         "cat_id": 2,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1343,9 +1045,7 @@
                 "value": "green,rose",
                 "sku": "6995883612600934",
                 "barcode": 26185977,
-                "price": "4813 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4813
             }
         ]
     },
@@ -1354,13 +1054,9 @@
         "title": "product_50",
         "cat_id": 1,
         "product_type": "variant",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1370,9 +1066,7 @@
                 "value": "rose,green",
                 "sku": "3024411036584289",
                 "barcode": 76089794,
-                "price": "445 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 445
             }
         ]
     },
@@ -1381,13 +1075,9 @@
         "title": "product_50",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1397,9 +1087,7 @@
                 "value": null,
                 "sku": "6435375786011766",
                 "barcode": 96203390,
-                "price": "3383 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 3383
             }
         ]
     },
@@ -1408,13 +1096,9 @@
         "title": "product_49",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1424,9 +1108,7 @@
                 "value": null,
                 "sku": "6929593347876449",
                 "barcode": 32314468,
-                "price": "3836 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 3836
             }
         ]
     },
@@ -1435,13 +1117,9 @@
         "title": "product_48",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:08.000000Z",
-        "updated_at": "2022-10-23T07:51:08.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1451,9 +1129,7 @@
                 "value": null,
                 "sku": "1940419850110964",
                 "barcode": 71693516,
-                "price": "4960 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4960
             }
         ]
     },
@@ -1462,13 +1138,9 @@
         "title": "product_47",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1478,9 +1150,7 @@
                 "value": null,
                 "sku": "1249077212690778",
                 "barcode": 96329537,
-                "price": "4451 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4451
             }
         ]
     },
@@ -1489,13 +1159,9 @@
         "title": "product_46",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1505,9 +1171,7 @@
                 "value": null,
                 "sku": "3826536609355086",
                 "barcode": 77665836,
-                "price": "4689 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4689
             }
         ]
     },
@@ -1516,13 +1180,9 @@
         "title": "product_45",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1532,9 +1192,7 @@
                 "value": null,
                 "sku": "6427838663628844",
                 "barcode": 78789012,
-                "price": "4490 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4490
             }
         ]
     },
@@ -1543,13 +1201,9 @@
         "title": "product_44",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1559,9 +1213,7 @@
                 "value": null,
                 "sku": "3689118630753345",
                 "barcode": 64848556,
-                "price": "4180 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 4180
             }
         ]
     },
@@ -1570,13 +1222,9 @@
         "title": "product_43",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1586,9 +1234,7 @@
                 "value": null,
                 "sku": "3764790497581182",
                 "barcode": 79026399,
-                "price": "230 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 230
             }
         ]
     },
@@ -1597,13 +1243,9 @@
         "title": "product_42",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1613,9 +1255,7 @@
                 "value": null,
                 "sku": "9189636748004783",
                 "barcode": 7902163,
-                "price": "1574 TK",
-                "created_at": "2022-10-23T07:51:13.000000Z",
-                "updated_at": "2022-10-23T07:51:13.000000Z"
+                "price": 1574
             }
         ]
     },
@@ -1624,13 +1264,9 @@
         "title": "product_41",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -1640,9 +1276,7 @@
                 "value": null,
                 "sku": "5762837140435350",
                 "barcode": 80456050,
-                "price": "2558 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2558
             }
         ]
     },
@@ -1651,13 +1285,9 @@
         "title": "product_40",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1667,9 +1297,7 @@
                 "value": null,
                 "sku": "9132671612556673",
                 "barcode": 52457339,
-                "price": "2964 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2964
             }
         ]
     },
@@ -1678,13 +1306,9 @@
         "title": "product_39",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1694,9 +1318,7 @@
                 "value": null,
                 "sku": "8483359347196435",
                 "barcode": 51100695,
-                "price": "1916 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 1916
             }
         ]
     },
@@ -1705,13 +1327,9 @@
         "title": "product_38",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1721,9 +1339,7 @@
                 "value": null,
                 "sku": "4015144707417865",
                 "barcode": 69665963,
-                "price": "3289 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 3289
             }
         ]
     },
@@ -1732,13 +1348,9 @@
         "title": "product_37",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1748,9 +1360,7 @@
                 "value": null,
                 "sku": "3411672888514236",
                 "barcode": 55712105,
-                "price": "2909 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2909
             }
         ]
     },
@@ -1759,13 +1369,9 @@
         "title": "product_36",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1775,9 +1381,7 @@
                 "value": null,
                 "sku": "574451619005443",
                 "barcode": 8006091,
-                "price": "1279 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 1279
             }
         ]
     },
@@ -1786,13 +1390,9 @@
         "title": "product_35",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -1802,9 +1402,7 @@
                 "value": null,
                 "sku": "2918447274850360",
                 "barcode": 16850237,
-                "price": "4748 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 4748
             }
         ]
     },
@@ -1813,13 +1411,9 @@
         "title": "product_34",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1829,9 +1423,7 @@
                 "value": null,
                 "sku": "7511754860925274",
                 "barcode": 81129636,
-                "price": "2464 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2464
             }
         ]
     },
@@ -1840,13 +1432,9 @@
         "title": "product_33",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:07.000000Z",
-        "updated_at": "2022-10-23T07:51:07.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1856,9 +1444,7 @@
                 "value": null,
                 "sku": "4116244624203391",
                 "barcode": 21082100,
-                "price": "3276 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 3276
             }
         ]
     },
@@ -1867,13 +1453,9 @@
         "title": "product_32",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1883,9 +1465,7 @@
                 "value": null,
                 "sku": "8845786139065226",
                 "barcode": 93941941,
-                "price": "1066 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 1066
             }
         ]
     },
@@ -1894,13 +1474,9 @@
         "title": "product_31",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1910,9 +1486,7 @@
                 "value": null,
                 "sku": "2034130587973603",
                 "barcode": 15684669,
-                "price": "2436 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2436
             }
         ]
     },
@@ -1921,13 +1495,9 @@
         "title": "product_30",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1937,9 +1507,7 @@
                 "value": null,
                 "sku": "7416138455947302",
                 "barcode": 27928841,
-                "price": "182 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 182
             }
         ]
     },
@@ -1948,13 +1516,9 @@
         "title": "product_29",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -1964,9 +1528,7 @@
                 "value": null,
                 "sku": "4365347462815014",
                 "barcode": 10355101,
-                "price": "1087 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 1087
             }
         ]
     },
@@ -1975,13 +1537,9 @@
         "title": "product_28",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -1991,9 +1549,7 @@
                 "value": null,
                 "sku": "6902859164388709",
                 "barcode": 82707705,
-                "price": "1599 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 1599
             }
         ]
     },
@@ -2002,13 +1558,9 @@
         "title": "product_27",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2018,9 +1570,7 @@
                 "value": null,
                 "sku": "9253754906161364",
                 "barcode": 59290940,
-                "price": "4109 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 4109
             }
         ]
     },
@@ -2029,13 +1579,9 @@
         "title": "product_26",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2045,9 +1591,7 @@
                 "value": null,
                 "sku": "3444639828586244",
                 "barcode": 81009471,
-                "price": "3330 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 3330
             }
         ]
     },
@@ -2056,13 +1600,9 @@
         "title": "product_25",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2072,9 +1612,7 @@
                 "value": null,
                 "sku": "5674528861929814",
                 "barcode": 56119484,
-                "price": "4087 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 4087
             }
         ]
     },
@@ -2083,13 +1621,9 @@
         "title": "product_24",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2099,9 +1633,7 @@
                 "value": null,
                 "sku": "1847144841920770",
                 "barcode": 53767429,
-                "price": "2080 TK",
-                "created_at": "2022-10-23T07:51:12.000000Z",
-                "updated_at": "2022-10-23T07:51:12.000000Z"
+                "price": 2080
             }
         ]
     },
@@ -2110,13 +1642,9 @@
         "title": "product_23",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2126,9 +1654,7 @@
                 "value": null,
                 "sku": "2835527855590791",
                 "barcode": 34848875,
-                "price": "1659 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 1659
             }
         ]
     },
@@ -2137,13 +1663,9 @@
         "title": "product_22",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -2153,9 +1675,7 @@
                 "value": null,
                 "sku": "2828455506880355",
                 "barcode": 37584509,
-                "price": "1022 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 1022
             }
         ]
     },
@@ -2164,13 +1684,9 @@
         "title": "product_21",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:06.000000Z",
-        "updated_at": "2022-10-23T07:51:06.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2180,9 +1696,7 @@
                 "value": null,
                 "sku": "4074726882463468",
                 "barcode": 4627531,
-                "price": "3617 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3617
             }
         ]
     },
@@ -2191,13 +1705,9 @@
         "title": "product_20",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2207,9 +1717,7 @@
                 "value": null,
                 "sku": "3060571769459192",
                 "barcode": 93251074,
-                "price": "750 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 750
             }
         ]
     },
@@ -2218,13 +1726,9 @@
         "title": "product_19",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2234,9 +1738,7 @@
                 "value": null,
                 "sku": "4130917071130292",
                 "barcode": 59679061,
-                "price": "3779 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3779
             }
         ]
     },
@@ -2245,13 +1747,9 @@
         "title": "product_18",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2261,9 +1759,7 @@
                 "value": null,
                 "sku": "6324119259613003",
                 "barcode": 52364338,
-                "price": "3384 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3384
             }
         ]
     },
@@ -2272,13 +1768,9 @@
         "title": "product_17",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2288,9 +1780,7 @@
                 "value": null,
                 "sku": "233322323933509",
                 "barcode": 79216189,
-                "price": "4099 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 4099
             }
         ]
     },
@@ -2299,13 +1789,9 @@
         "title": "product_16",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2315,9 +1801,7 @@
                 "value": null,
                 "sku": "3813889496735535",
                 "barcode": 81525731,
-                "price": "3410 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3410
             }
         ]
     },
@@ -2326,13 +1810,9 @@
         "title": "product_15",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2342,9 +1822,7 @@
                 "value": null,
                 "sku": "129380986626634",
                 "barcode": 58319625,
-                "price": "2302 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 2302
             }
         ]
     },
@@ -2353,13 +1831,9 @@
         "title": "product_14",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -2369,9 +1843,7 @@
                 "value": null,
                 "sku": "8493099977570815",
                 "barcode": 77966330,
-                "price": "2998 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 2998
             }
         ]
     },
@@ -2380,13 +1852,9 @@
         "title": "product_13",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2396,9 +1864,7 @@
                 "value": null,
                 "sku": "583715685149594",
                 "barcode": 79802091,
-                "price": "3091 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3091
             }
         ]
     },
@@ -2407,13 +1873,9 @@
         "title": "product_12",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2423,9 +1885,7 @@
                 "value": null,
                 "sku": "5168835966294501",
                 "barcode": 31554372,
-                "price": "3980 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 3980
             }
         ]
     },
@@ -2434,13 +1894,9 @@
         "title": "product_11",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2450,9 +1906,7 @@
                 "value": null,
                 "sku": "6357088180913893",
                 "barcode": 34958022,
-                "price": "941 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 941
             }
         ]
     },
@@ -2461,13 +1915,9 @@
         "title": "product_10",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -2477,9 +1927,7 @@
                 "value": null,
                 "sku": "6129648831259121",
                 "barcode": 66496144,
-                "price": "4734 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 4734
             }
         ]
     },
@@ -2488,13 +1936,9 @@
         "title": "product_9",
         "cat_id": 2,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 2,
-            "title": "clothing",
-            "created_at": null,
-            "updated_at": null
+            "title": "clothing"
         },
         "product_variant": [
             {
@@ -2504,9 +1948,7 @@
                 "value": null,
                 "sku": "668290080734876",
                 "barcode": 65303785,
-                "price": "2920 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 2920
             }
         ]
     },
@@ -2515,13 +1957,9 @@
         "title": "product_8",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2531,9 +1969,7 @@
                 "value": null,
                 "sku": "6095054982055913",
                 "barcode": 15278178,
-                "price": "4118 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 4118
             }
         ]
     },
@@ -2542,13 +1978,9 @@
         "title": "product_7",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2558,9 +1990,7 @@
                 "value": null,
                 "sku": "7844294947201527",
                 "barcode": 78342821,
-                "price": "4216 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 4216
             }
         ]
     },
@@ -2569,13 +1999,9 @@
         "title": "product_6",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2585,9 +2011,7 @@
                 "value": null,
                 "sku": "1039758588713563",
                 "barcode": 31157622,
-                "price": "377 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 377
             }
         ]
     },
@@ -2596,13 +2020,9 @@
         "title": "product_5",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2612,9 +2032,7 @@
                 "value": null,
                 "sku": "7936376284050149",
                 "barcode": 6713039,
-                "price": "1210 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 1210
             }
         ]
     },
@@ -2623,13 +2041,9 @@
         "title": "product_4",
         "cat_id": 4,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:05.000000Z",
-        "updated_at": "2022-10-23T07:51:05.000000Z",
         "category": {
             "id": 4,
-            "title": "plastics",
-            "created_at": null,
-            "updated_at": null
+            "title": "plastics"
         },
         "product_variant": [
             {
@@ -2639,9 +2053,7 @@
                 "value": null,
                 "sku": "3082172543705670",
                 "barcode": 82623389,
-                "price": "2397 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 2397
             }
         ]
     },
@@ -2650,13 +2062,9 @@
         "title": "product_3",
         "cat_id": 1,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:04.000000Z",
-        "updated_at": "2022-10-23T07:51:04.000000Z",
         "category": {
             "id": 1,
-            "title": "foods",
-            "created_at": null,
-            "updated_at": null
+            "title": "foods"
         },
         "product_variant": [
             {
@@ -2666,9 +2074,7 @@
                 "value": null,
                 "sku": "7200479424854604",
                 "barcode": 66401096,
-                "price": "4059 TK",
-                "created_at": "2022-10-23T07:51:11.000000Z",
-                "updated_at": "2022-10-23T07:51:11.000000Z"
+                "price": 4059
             }
         ]
     },
@@ -2677,13 +2083,9 @@
         "title": "product_2",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:04.000000Z",
-        "updated_at": "2022-10-23T07:51:04.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2693,9 +2095,7 @@
                 "value": null,
                 "sku": "4609740489871276",
                 "barcode": 6485158,
-                "price": "601 TK",
-                "created_at": "2022-10-23T07:51:10.000000Z",
-                "updated_at": "2022-10-23T07:51:10.000000Z"
+                "price": 601
             }
         ]
     },
@@ -2704,13 +2104,9 @@
         "title": "product_1",
         "cat_id": 3,
         "product_type": "standard",
-        "created_at": "2022-10-23T07:51:04.000000Z",
-        "updated_at": "2022-10-23T07:51:04.000000Z",
         "category": {
             "id": 3,
-            "title": "electronics",
-            "created_at": null,
-            "updated_at": null
+            "title": "electronics"
         },
         "product_variant": [
             {
@@ -2720,9 +2116,7 @@
                 "value": null,
                 "sku": "251398409422739",
                 "barcode": 78755341,
-                "price": "1465 TK",
-                "created_at": "2022-10-23T07:51:10.000000Z",
-                "updated_at": "2022-10-23T07:51:10.000000Z"
+                "price": 1465
             }
         ]
     }
