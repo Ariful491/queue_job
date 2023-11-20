@@ -1,7 +1,7 @@
  
 
 ## About 
-___
+ 
  Design your Database<br>
  Create the migration<br>
  Define eloquent Relationship in Model<br>
