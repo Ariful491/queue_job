@@ -2,12 +2,12 @@
 
 ## About 
  
- Design your Database<br>
- Create the migration<br>
- Define eloquent Relationship in Model<br>
- Use queue/scheduler/job to solve the issue<br>
- Use controller , service and model to solve the problem <br>
- While importing check If you don’t have category in DB you have to create it first then
+ 1)Design your Database<br>
+ 2)Create the migration<br>
+ 3)Define eloquent Relationship in Model<br>
+ 4)Use queue/scheduler/job to solve the issue<br>
+ 5)Use controller , service and model to solve the problem <br>
+ 6)While importing check If you don’t have category in DB you have to create it first then
  insert<br>
  Create an api to Store 100k data<br>
  Create an api to Show 100k data<br>
