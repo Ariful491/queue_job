@@ -9,11 +9,11 @@
  5)Use controller , service and model to solve the problem <br>
  6)While importing check If you don’t have category in DB you have to create it first then
  insert<br>
- Create an api to Store 100k data<br>
- Create an api to Show 100k data<br>
- Create a blade template where you will be showing 100K (feel free to implement
- your idea s that browser should not get hanged and user will be able see the data)<br>
- Tell us in which route and what to do to can see 100k data<br>
+ 7)Create an api to Store 100k data<br>
+ 10)Create an api to Show 100k data<br>
+ 11)Create a blade template where you will be showing 100K (feel free to implement
+ 12)your idea s that browser should not get hanged and user will be able see the data)<br>
+ 13)Tell us in which route and what to do to can see 100k data<br>
 
 **Alhamdulillah**, Hope all requirements are met. If find any kind of problem please contact me I will solve it.
 
