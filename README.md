@@ -1,7 +1,6 @@
  
 
 ## About 
- 
  1)Design your Database<br>
  2)Create the migration<br>
  3)Define eloquent Relationship in Model<br>
